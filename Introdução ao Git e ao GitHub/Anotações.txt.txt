@@ -1,1 +1,11 @@
-O Git Bash é um terminal extendido para otimizar o uso do Git.
+Um pouco das minhas anotaçõees do curso da DIO
+
+dir mostra os diretórios da pasta que estou;
+cd navega entre pastas;
+cls limpa o terminal;
+mkdir cria um diretório;
+rmkdir remove um repositório;
+git init inicia o repositório;
+git add . adiciona os arquivos pendentes;
+git commit -m "" comenta os arquivos;
+git push envia os arquivos para o GitHub...
